@@ -13,14 +13,14 @@ Aplicación web de mensajería instantánea con salas de chat, autenticación de
 
 ## Estructura de archivos
 
-chat-app/
-├── conexion.php # Conexión a la base de datos
-├── get_messages.php # Obtener mensajes de una sala (API)
-├── index.php # Página principal del chat
-├── login.php # Página de inicio de sesión
-├── logout.php # Cierre de sesión
-├── registro.php # Página de registro de usuarios
-└── save_message.php # Guardar mensajes (API)
+chat-app/ <br>
+├── conexion.php # Conexión a la base de datos <br>
+├── get_messages.php # Obtener mensajes de una sala (API) <br>
+├── index.php # Página principal del chat <br>
+├── login.php # Página de inicio de sesión <br>
+├── logout.php # Cierre de sesión <br>
+├── registro.php # Página de registro de usuarios <br>
+└── save_message.php # Guardar mensajes (API) <br>
 
 
 ## Requisitos del sistema
